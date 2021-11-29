@@ -1,0 +1,56 @@
+C:\Users\Bettian_2\source\repos\AnalizeText\AnalizeText\bin\Debug\AnalizeText.exe.config
+C:\Users\Bettian_2\source\repos\AnalizeText\AnalizeText\bin\Debug\AnalizeText.exe
+C:\Users\Bettian_2\source\repos\AnalizeText\AnalizeText\bin\Debug\AnalizeText.pdb
+C:\Users\Bettian_2\source\repos\AnalizeText\AnalizeText\obj\Debug\AnalizeText.csprojAssemblyReference.cache
+C:\Users\Bettian_2\source\repos\AnalizeText\AnalizeText\obj\Debug\AnalizeText.Properties.Resources.resources
+C:\Users\Bettian_2\source\repos\AnalizeText\AnalizeText\obj\Debug\AnalizeText.csproj.GenerateResource.cache
+C:\Users\Bettian_2\source\repos\AnalizeText\AnalizeText\obj\Debug\AnalizeText.csproj.CoreCompileInputs.cache
+C:\Users\Bettian_2\source\repos\AnalizeText\AnalizeText\obj\Debug\AnalizeText.exe
+C:\Users\Bettian_2\source\repos\AnalizeText\AnalizeText\obj\Debug\AnalizeText.pdb
+C:\Users\Bettian_2\source\repos\AnalizeText\AnalizeText\obj\Debug\AnalizeText.FormAnalizeText.resources
+C:\Users\Владислав\Desktop\AnalizeText\AnalizeText\bin\Debug\AnalizeText.exe.config
+C:\Users\Владислав\Desktop\AnalizeText\AnalizeText\bin\Debug\AnalizeText.exe
+C:\Users\Владислав\Desktop\AnalizeText\AnalizeText\bin\Debug\AnalizeText.pdb
+C:\Users\Владислав\Desktop\AnalizeText\AnalizeText\obj\Debug\AnalizeText.csprojAssemblyReference.cache
+C:\Users\Владислав\Desktop\AnalizeText\AnalizeText\obj\Debug\AnalizeText.FormAnalizeText.resources
+C:\Users\Владислав\Desktop\AnalizeText\AnalizeText\obj\Debug\AnalizeText.Properties.Resources.resources
+C:\Users\Владислав\Desktop\AnalizeText\AnalizeText\obj\Debug\AnalizeText.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\AnalizeText\AnalizeText\obj\Debug\AnalizeText.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\AnalizeText\AnalizeText\obj\Debug\AnalizeText.exe
+C:\Users\Владислав\Desktop\AnalizeText\AnalizeText\obj\Debug\AnalizeText.pdb
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\bin\Debug\ExtremistDatabase.mdf
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\bin\Debug\ExtremistDatabase_log.ldf
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\bin\Debug\AnalizeText.exe.config
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\bin\Debug\AnalizeText.exe
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\bin\Debug\AnalizeText.pdb
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\obj\Debug\AnalizeText.FormAnalizeText.resources
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\obj\Debug\AnalizeText.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\obj\Debug\AnalizeText.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\obj\Debug\AnalizeText.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\obj\Debug\AnalizeText.exe
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\obj\Debug\AnalizeText.pdb
+C:\Users\Владислав\Desktop\Полностью готовые тесты\AnalizeText\obj\Debug\AnalizeText.csprojAssemblyReference.cache
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\bin\Debug\ExtremistDatabase.mdf
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\bin\Debug\ExtremistDatabase_log.ldf
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\bin\Debug\AnalizeText.exe.config
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\bin\Debug\AnalizeText.exe
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\bin\Debug\AnalizeText.pdb
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\obj\Debug\AnalizeText.csprojAssemblyReference.cache
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\obj\Debug\AnalizeText.FormAnalizeText.resources
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\obj\Debug\AnalizeText.Properties.Resources.resources
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\obj\Debug\AnalizeText.csproj.GenerateResource.cache
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\obj\Debug\AnalizeText.csproj.CoreCompileInputs.cache
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\obj\Debug\AnalizeText.exe
+C:\Users\Bettian_2\Desktop\универ\4 курс.летняя сессия\Уголовно-правовые проблемы программного обеспечения\project\AnalizeText\obj\Debug\AnalizeText.pdb
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\bin\Debug\ExtremistDatabase.mdf
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\bin\Debug\ExtremistDatabase_log.ldf
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\bin\Debug\AnalizeText.exe.config
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\bin\Debug\AnalizeText.exe
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\bin\Debug\AnalizeText.pdb
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\obj\Debug\AnalizeText.csprojAssemblyReference.cache
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\obj\Debug\AnalizeText.FormAnalizeText.resources
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\obj\Debug\AnalizeText.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\obj\Debug\AnalizeText.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\obj\Debug\AnalizeText.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\obj\Debug\AnalizeText.exe
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\AnalizeText\obj\Debug\AnalizeText.pdb

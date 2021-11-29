@@ -1,0 +1,86 @@
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\UnitTestAnalizeText.dll
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\UnitTestAnalizeText.pdb
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csprojAssemblyReference.cache
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csproj.CoreCompileInputs.cache
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csproj.CopyComplete
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.dll
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.pdb
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\AnalizeText.exe
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\AnalizeText.pdb
+C:\Users\Bettian_2\source\repos\AnalizeText\UnitTestAnalizeText\bin\Debug\AnalizeText.exe.config
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\UnitTestAnalizeText.dll
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\UnitTestAnalizeText.pdb
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\AnalizeText.exe
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\AnalizeText.pdb
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\AnalizeText.exe.config
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csprojAssemblyReference.cache
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csproj.CopyComplete
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.dll
+C:\Users\Владислав\Desktop\AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.pdb
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\UnitTestAnalizeText.dll
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\UnitTestAnalizeText.pdb
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\AnalizeText.exe
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\AnalizeText.pdb
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\AnalizeText.exe.config
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csprojAssemblyReference.cache
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csproj.CoreCompileInputs.cache
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csproj.CopyComplete
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.dll
+C:\Users\Bettian_2\Desktop\Новая папка (3)\последняя версия\Со всеми классами, без словарей AnalizeText\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.pdb
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csprojAssemblyReference.cache
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.dll
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.pdb
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\ExtremistDatabase.mdf
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\ExtremistDatabase_log.ldf
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\UnitTestAnalizeText.dll
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\UnitTestAnalizeText.pdb
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\AnalizeText.exe
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\AnalizeText.pdb
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\AnalizeText.exe.config
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.csproj.CopyComplete
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\UnitTestAnalizeText.dll.CodeAnalysisLog.xml
+C:\Users\Владислав\Desktop\Полностью готовые тесты\UnitTestAnalizeText\bin\Debug\UnitTestAnalizeText.dll.lastcodeanalysissucceeded
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.dll
+C:\Users\Владислав\Desktop\Университет\4 курс\Уголовно-правовые проблемы ПО\Практическая работа\Программа-антиэкстремизм\UnitTestAnalizeText\obj\Debug\UnitTestAnalizeText.pdb
